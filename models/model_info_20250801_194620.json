@@ -1,0 +1,20 @@
+{
+  "model_name": "Logistic Regression",
+  "accuracy": 0.6828571428571428,
+  "feature_columns": [
+    "temperature",
+    "rainfall",
+    "humidity",
+    "pressure",
+    "today_raining",
+    "temp_humidity_ratio",
+    "pressure_deviation",
+    "high_humidity",
+    "low_pressure",
+    "temp_pressure_interaction",
+    "rain_humidity_interaction"
+  ],
+  "training_date": "2025-08-01T19:46:20.478431",
+  "model_filename": "models/weather_model_logistic_regression_20250801_194620.pkl",
+  "model_type": "LogisticRegression"
+}
